@@ -1,1 +1,4 @@
-# Yoveledri.github.io
+# YOVEL EDRI GitHub Page
+Projects
+Resume
+References
