@@ -3,7 +3,7 @@
 
 ## ABOUT
 
-- *I am a Masters student at the department of Chemistry and Structural Biology at the Weizmann Institute of Science.*
+- *I am a Masters student at the department of Chemistry and Structural Biology at the Weizmann Institute of Science.
 - *My research is centered around remodelling endogenous proteins for the targetting of small, inexcessible proteins.
 
 
