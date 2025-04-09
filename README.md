@@ -1,4 +1,4 @@
-<img src="Video.mp4" align="right" width="300" width="300" style="border-radius: 50%;">
+<vid src="Video.mp4" align="right" width="300" width="300" style="border-radius: 50%;">
 
 
 ## ABOUT
