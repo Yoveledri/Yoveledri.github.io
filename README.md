@@ -1,4 +1,4 @@
-<img src="image.mp4" align="right" width="300" width="300" style="border-radius: 50%;">
+<img src="AF-P16220-F1 (2).png" align="right" width="300" width="300" style="border-radius: 50%;">
 
 
 ## ABOUT
