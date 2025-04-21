@@ -8,7 +8,7 @@
 
 
 ## EDUCATION :
-- *M.S. in Biology (Ongoing), Weizmann Institute of Science, Israel *
+- *M.S. in Biology (Ongoing), Weizmann Institute of Science, Israel*
 - *B.S. in Biology and Biotechnology, Tel-Aviv University, Israel*
 
 ## Contact :
